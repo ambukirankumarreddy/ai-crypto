@@ -1,0 +1,6 @@
+{
+  "name": "AI Crypto Earning Organization",
+  "description": "Autonomous multi-agent AI system discovering legitimate cryptocurrency earning opportunities, evaluating risk and profitability, executing permitted tasks, and self-improving under strict security policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
